@@ -1,3 +1,14 @@
+/**
+ * Crossword v1.0
+ * Copyright 2014 - 2021 Kam Cheng
+ * Licensed under: SEE LICENSE IN MIT-LICENSE.txt
+ */
+/**
+ * Crossword
+ * @version 1.0
+ * @author Kam Cheng
+ */
+
 (function(){
 	function crossword(obj){
 		var boxObj = [];
